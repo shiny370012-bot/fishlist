@@ -15,6 +15,12 @@
             "hz": 480
         },
         {
+            "user": "soda",
+            "link": "https://www.youtube.com/watch?v=QlXrMW37LCs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
             "user": "Henyher",
             "link": "https://youtu.be/u3pTsZ4b5S0",
             "percent": 100,
@@ -23,6 +29,7 @@
     ]
 
 }
+
 
 
 
